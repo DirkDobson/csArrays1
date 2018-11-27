@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/obj/Debug/netcoreapp2.1/csArrays1.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/obj/Debug/netcoreapp2.1/csArrays1.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/obj/Debug/netcoreapp2.1/csArrays1.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/obj/Debug/netcoreapp2.1/csArrays1.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/bin/Debug/netcoreapp2.1/csArrays1.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/bin/Debug/netcoreapp2.1/csArrays1.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/bin/Debug/netcoreapp2.1/csArrays1.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/bin/Debug/netcoreapp2.1/csArrays1.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/bin/Debug/netcoreapp2.1/csArrays1.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/obj/Debug/netcoreapp2.1/csArrays1.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csArrays1/obj/Debug/netcoreapp2.1/csArrays1.pdb
