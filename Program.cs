@@ -29,8 +29,19 @@ namespace csArrays1
             Array.Copy(numbers, another, 3);
             System.Console.WriteLine("Effect of Copy()");
             foreach (var n in another)
-                System.Console.WriteLine(n);;
+                System.Console.WriteLine(n);
 
+            // Sort()
+            Array.Sort(numbers);
+            System.Console.WriteLine("Effect of Sort()");
+            foreach (var n in numbers)
+                System.Console.WriteLine(n);
+
+            //Reverse()
+            Array.Reverse(numbers);
+            System.Console.WriteLine("Effect of Reverse()");
+            foreach (var n in numbers)
+                System.Console.WriteLine(n);
         }
     }
 }
